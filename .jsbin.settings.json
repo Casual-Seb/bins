@@ -4,5 +4,9 @@
   "app.showWelcome": true,
   "app.splitColumns": false,
   "app.theme": "light",
-  "javascript.autoRun": false
+  "javascript.autoRun": false,
+  "app.source": "javascript",
+  "app.syncSettings": true,
+  "app.result": "both",
+  "editor.fontSize": 14
 }
