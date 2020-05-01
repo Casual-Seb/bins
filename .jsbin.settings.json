@@ -1,0 +1,8 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.showWelcome": true,
+  "app.splitColumns": false,
+  "app.theme": "light",
+  "javascript.autoRun": false
+}
