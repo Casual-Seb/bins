@@ -9,5 +9,5 @@
   "app.syncSettings": true,
   "app.result": "both",
   "editor.fontSize": 14,
-  "app.defaultSave": "jsbin"
+  "app.defaultSave": "github"
 }
