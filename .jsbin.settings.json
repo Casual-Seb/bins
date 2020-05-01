@@ -8,5 +8,6 @@
   "app.source": "javascript",
   "app.syncSettings": true,
   "app.result": "both",
-  "editor.fontSize": 14
+  "editor.fontSize": 14,
+  "app.defaultSave": "jsbin"
 }
